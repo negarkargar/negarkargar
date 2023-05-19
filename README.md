@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @negarkargar
 - 👀 I’m interested in engineering
-- 🌱 I’m currently learning solidworks and matlab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me neg.krg@gmail.com
 
